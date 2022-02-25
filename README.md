@@ -35,6 +35,8 @@ I will respond as soon as I can.
 
 Feel free to contact me via any of these platforms, I respond quite quickly :)
 
+[![Discord](https://img.shields.io/discord/746681304111906867?label=Steve%27s%20Underwater%20Paradise%20%7C%20chat%20on%20Discord)](https://discord.gg/KbWxgGg)
+
 [![GitHub](https://img.shields.io/github/stars/Steveplays28?label=Steveplays28%20%7C%20Stars&style=social)](https://github.com/Steveplays28)
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC0GP9rATvC5L8yH_NrCaBJw?label=Steveplays%20%7C%20Subscribers&style=social)](https://youtube.com/c/Steveplays28)
