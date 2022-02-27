@@ -6,6 +6,9 @@ Random stuff
 [![GitHub](https://img.shields.io/github/forks/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/network/members)
 [![GitHub](https://img.shields.io/github/issues/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/issues)
 [![GitHub](https://img.shields.io/github/issues-pr/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/pulls)
+
+[![Discord](https://img.shields.io/discord/746681304111906867?label=chat%20on%20Discord%20%7C%20Steve%27s%20underwater%20paradise)](https://discord.gg/KbWxgGg)
+[![Custom](https://img.shields.io/badge/I%20support-Ukraine-yellow?labelColor=0000FF)](https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine)
 </h1>
 
 ## Description
@@ -34,6 +37,8 @@ I will respond as soon as I can.
 ## My links
 
 Feel free to contact me via any of these platforms, I respond quite quickly :)
+
+[![Discord](https://img.shields.io/discord/746681304111906867?label=chat%20on%20Discord%20%7C%20Steve%27s%20underwater%20paradise&style=social&logo=discord)](https://discord.gg/KbWxgGg)
 
 [![GitHub](https://img.shields.io/github/stars/Steveplays28?label=Steveplays28%20%7C%20Stars&style=social)](https://github.com/Steveplays28)
 

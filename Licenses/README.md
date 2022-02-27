@@ -9,7 +9,6 @@ Random stuff
 
 [![Discord](https://img.shields.io/discord/746681304111906867?label=chat%20on%20Discord%20%7C%20Steve%27s%20underwater%20paradise)](https://discord.gg/KbWxgGg)
 [![Custom](https://img.shields.io/badge/I%20support-Ukraine-yellow?labelColor=0000FF)](https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine)
-
 </h1>
 
 ## Description
