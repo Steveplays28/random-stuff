@@ -1,7 +1,7 @@
 <h1 align="center">
 Random stuff
 
-[![GitHub](https://img.shields.io/github/license/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/LICENSE)
+[![GitHub](https://img.shields.io/github/license/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/blob/main/LICENSE)
 ![GitHub](https://img.shields.io/github/repo-size/Steveplays28/random-stuff)
 [![GitHub](https://img.shields.io/github/forks/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/network/members)
 [![GitHub](https://img.shields.io/github/issues/Steveplays28/random-stuff)](https://github.com/Steveplays28/random-stuff/issues)
