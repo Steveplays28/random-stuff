@@ -25,13 +25,9 @@ Please check if there isn't already an issue open for what you want to report.
 I will respond as soon as I can.
 
 
-## Contributing
+## Credit
 
-If you want to add or change something, feel free to [make a pull request](https://github.com/Steveplays28/random-stuff/compare)!
-
-Please check if there isn't already a pull request open for this specific issue, and adhere to the rules listed in each of the folders' READMEs. 
-
-I will respond as soon as I can.
+If you choose to use any of the assets I've made, giving some credit to me would be nice, but it's not required.
 
 
 ## My links
